@@ -11,7 +11,7 @@ AI-flygeleder for Microsoft Flight Simulator, med talegjenkjenning, SimBrief og 
 
 ## Last ned
 
-Gå til **[Releases](../../releases/latest)** og last ned `Thunder ATC (test).7z`.
+Gå til **[Releases](../../releases/latest)** og last ned `Thunder.ATC.test.7z`.
 
 ## Slik kommer du i gang
 
@@ -42,7 +42,7 @@ Send fila `thunder-atc\atc\thunder_atc_logg.txt` til Thunder2977.
 
 ## English
 
-1. Download `Thunder ATC (test).7z` from **[Releases](../../releases/latest)** and extract it locally with the password you received.
+1. Download `Thunder.ATC.test.7z` from **[Releases](../../releases/latest)** and extract it locally with the password you received.
 2. Run **«Start Thunder ATC.exe»** (SmartScreen: «More info» → «Run anyway»).
 3. Speech recognition (~145 MB) downloads automatically on first start.
 4. Open «Innstillinger» (Settings), enter your SimBrief username, click «Lagre» (Save).
