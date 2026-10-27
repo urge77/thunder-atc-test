@@ -18,6 +18,8 @@ Gå til **[Releases](../../releases/latest)** og last ned `Thunder.ATC.test.7z`.
 1. Pakk ut `.7z`-fila **lokalt** på PC-en (f.eks. på skrivebordet) med [7-Zip](https://www.7-zip.org/) eller WinRAR, og skriv inn passordet.
 2. Dobbeltklikk **«Start Thunder ATC.exe»** i mappa `thunder-atc`.
    Sier Windows «Windows beskyttet PC-en»: trykk «Mer info» → «Kjør likevel».
+   Det er normalt: programmet er ikke signert med et kjøpt sertifikat, så Windows kjenner ikke utgiveren. Bare første gang.
+   *Vil du slippe varselet:* høyreklikk den nedlastede `.7z`-fila **før** du pakker ut → Egenskaper → huk av «Fjern blokkering» → OK.
 3. Første gang lastes talegjenkjenning (ca. 145 MB) ned automatisk i bakgrunnen. Ikke lukk programmet imens.
 4. Trykk **«Innstillinger»**, skriv inn SimBrief-brukernavnet ditt og trykk «Lagre».
 5. Trykk **«Hent fra SimBrief»**, start MSFS og sett deg i flyet.
@@ -43,7 +45,7 @@ Send fila `thunder-atc\atc\thunder_atc_logg.txt` til Thunder2977.
 ## English
 
 1. Download `Thunder.ATC.test.7z` from **[Releases](../../releases/latest)** and extract it locally with the password you received.
-2. Run **«Start Thunder ATC.exe»** (SmartScreen: «More info» → «Run anyway»).
+2. Run **«Start Thunder ATC.exe»** (SmartScreen: «More info» → «Run anyway» – normal, the program isn't signed with a paid certificate; or right-click the `.7z` before extracting → Properties → «Unblock»).
 3. Speech recognition (~145 MB) downloads automatically on first start.
 4. Open «Innstillinger» (Settings), enter your SimBrief username, click «Lagre» (Save).
 5. Click «Hent fra SimBrief», start MSFS, hold **right CTRL** to talk.
